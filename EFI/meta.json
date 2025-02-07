@@ -1,0 +1,13 @@
+{
+  "archetecture": {
+    "base": "x86",
+    "bits": 64,
+
+    "a-long": "x64"
+  },
+
+  "platform": {
+    "kernel": "linux-6.10.2",
+    "bootloader": "syslinux"
+  },
+}
